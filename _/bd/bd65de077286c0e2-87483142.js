@@ -1,0 +1,1 @@
+window.__forgePageBlockData = '__forgePageBlockData' in window ? window.__forgePageBlockData : {};
